@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "devops",
+    "packageName": "com.gzcc",
+    "packageFolder": "com/gzcc",
+    "authenticationType": "oauth2",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "e49ab9401e24aa4a1a434407795d983473dce29d",
+    "testFrameworks": [
+      "protractor"
+    ]
+  }
+}
